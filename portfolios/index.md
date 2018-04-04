@@ -71,7 +71,7 @@ some modification of it.
 Submit your video by placing it on YouTube or another file sharing service
 (e.g. github). You should all have a YouTube account through your eng.ucsd.edu
 account. You can make is a private video as long as you share it with me
-(cjalvarado@eng.ucsd.edu) and our TA (rdani@eng.ucsd.edu). You may also choose
+(jpolitz@eng.ucsd.edu) and our TA (rdani@eng.ucsd.edu). You may also choose
 to make the video public. It's up to you. 
 
 Next, the hard part. **Watch the video.** It's always uncomfortable to watch
