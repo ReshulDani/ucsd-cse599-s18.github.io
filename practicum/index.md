@@ -21,11 +21,12 @@ In this week's practicum activity, you will role-play working with different stu
 
     In the practicum session, you'll roleplay the TA-student interaction, focusing on specific strategies for tailoring your work to specific student needs. Rotate through the group members, picking one pair at a time where one person is acting the role of TA and the other the role of the student. This pair should use the question that the "TA" described in her/his portfolio in preparation for the session. After letting the student look at the question and "get into character", play out the pretend office hours interaction for 3-5 minutes (or less, if a natural stopping point occurs; don't go past 5 minutes so other pairs also have a chance to try out the activity). The rest of the group should be engaged in observing the interaction. 
 
-#### When you're the TA: 
+When you're the TA: 
 When working with your perplexed student your goal is to get them to understand the problem and be able to generate the correct solution. You should think about how to get them to think about breaking down the problem into something manageable. You might consider giving a simpler example, or having them try to do only part of the problem. Your other main task is to respond to the student on a personal level. Each student has been given a different personality role to play, so part of your challenge will be figuring out the best approach for an individual. 
 
-#### When you're the student: 
-Based on the order in which you are listed in your group in this Piazza post: https://piazza.com/class/jc89yxk1abh3o9?cid=7, you will each been assigned a different "personality".   If you are the first person listed in your group, you will take the first role below; if you are the second, you take the second role, etc.  If you are the last student listed and there aren't enough roles for you, just choose any one of the roles below.  Study your role and try to play it as authentically as possible. 
+When you're the student: 
+
+Study your role and try to play it as authentically as possible. 
 
 - Role: The overwhelmed struggling student (Your birth month mod 5 = 0) You are struggling to understand the new material in this class and are down on yourself. You have no idea where to start on this problem, and you are discouraged and just want to give up. You are inclined to become upset and frustrated (though not belligerent). At any moment you feel like you might burst into tears. You just don’t feel like you’ll ever understand. 
 
@@ -38,7 +39,7 @@ Based on the order in which you are listed in your group in this Piazza post: ht
 - Role: The student who just wants the answer (Your birth month mod 5 = 4) You aren’t really very interested in this class. You’re pretty confused and you don’t feel like putting any mental energy into the assignment. You have come to your TA because you really just want them to tell you the answers. You are not leaving until you have a working solution to the problem. You are not rude to the TA, but just insistent about getting him or her to tell you the answer. However, you should not be so stubborn that you do not respond to the TA’s attempts to engage you in learning, if you feel these attempts are successful. 
 
 Once everyone's had the opportunity to role-play as either the TA or the student, debrief the strategies that worked for the different characters that were played. Were there any effective tools that worked for all students? Were there techniques that worked very well with some, but very poorly with others?
-        If you have more time, switch roles and switch characters.
+If you have more time, switch roles and switch characters.
 ## Grading I (Practicum assignment, Week 7)
 
 In this session, you'll workshop grading strategies that are effective for the specific type of class you're currently TAing. Coming up with extensive auto-grading and testing scripts is important for classes that are programming heavy, whereas rubrics for large projects or written assignments are used heavily in design or theoretical classes.
